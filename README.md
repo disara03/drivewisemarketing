@@ -1,8 +1,8 @@
-DriveWise
+##DriveWise
 
 DriveWise is a modern, user-friendly web application designed to help car owners manage their vehicle maintenance with ease. This application provides smart reminders, service history tracking, and location-based mechanic search.
 
-Features
+##Features
 
 Smart Reminders: Never miss an oil change or maintenance schedule with intelligent notifications.
 
@@ -14,7 +14,7 @@ UI Showcase: Experience a beautifully designed interface with interactive animat
 
 Pricing Plans: Choose between a free basic plan or a premium subscription for advanced features.
 
-Technologies Used
+##Technologies Used
 
 React: Frontend library for building user interfaces.
 
@@ -60,7 +60,7 @@ Project Structure
 ├── 📄 README.md          # Project documentation
 └── 📄 tsconfig.json      # TypeScript configuration
 
-Deployment
+##Deployment
 
 To build the project for production:
 
