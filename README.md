@@ -26,11 +26,11 @@ Framer Motion: Animation library for smooth and interactive UI.
 
 Lucide Icons: Modern and customizable icon set.
 
-Installation
+##Installation
 
 To set up and run DriveWise locally, follow these steps:
 
-Clone the repository:
+##Clone the repository:
 
 git clone https://github.com/yourusername/drivewise.git
 
@@ -42,13 +42,13 @@ Install dependencies:
 
 npm install
 
-Start the development server:
+##Start the development server:
 
 npm run dev
 
 Open the application in your browser at http://localhost:5173 (default Vite port).
 
-Project Structure
+##Project Structure
 
 📦 drivewise
 ├── 📂 src
@@ -82,12 +82,12 @@ Dulani - Lead Developer
 
 Ravindi - Head of Design
 
-Contact
+##Contact
 
 For inquiries, reach out to us at:
 📧 drivewise.care@gmail.com
 
-Follow us on:
+##Follow us on:
 
 Facebook
 
@@ -95,6 +95,6 @@ Instagram
 
 LinkedIn
 
-License
+##License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
